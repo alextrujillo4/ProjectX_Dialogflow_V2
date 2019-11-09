@@ -289,3 +289,14 @@ Facebook Responses: https://developers.facebook.com/docs/messenger-platform/refe
 ]
 };
  */
+
+
+/*//UPLOAD USER DATA TO DATABASE
+function uploadPersonalInfo(name) {
+    var personalInfo = {
+        name: name
+    };
+    admin.database().ref("Usuarios").push(personalInfo);
+    return true;
+ }
+* */
