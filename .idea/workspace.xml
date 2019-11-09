@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1add4386-cef0-4fd3-97d7-57f6a367cf6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/index.js" afterDir="false" />
     </list>
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="295" column="24" lean-forward="true" selection-start-line="295" selection-start-column="24" selection-end-line="295" selection-end-column="24" />
+            <state relative-caret-position="872">
+              <caret line="234" selection-start-line="234" selection-end-line="234" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -57,8 +56,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proyectoX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyectoX" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -98,18 +107,19 @@
       <workItem from="1572705681047" duration="4760000" />
       <workItem from="1572993834860" duration="55000" />
       <workItem from="1573259288849" duration="5038000" />
-      <workItem from="1573279005954" duration="197000" />
+      <workItem from="1573279005954" duration="264000" />
+      <workItem from="1573313607249" duration="4644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10050000" />
+    <option name="totallyTimeSpent" value="14761000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24907847" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -121,7 +131,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3277311" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32696176" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -144,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="295" column="24" lean-forward="true" selection-start-line="295" selection-start-column="24" selection-end-line="295" selection-end-column="24" />
+        <state relative-caret-position="872">
+          <caret line="234" selection-start-line="234" selection-end-line="234" selection-end-column="29" />
         </state>
       </provider>
     </entry>

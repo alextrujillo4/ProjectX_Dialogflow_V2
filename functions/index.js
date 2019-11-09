@@ -8,7 +8,6 @@ const DialogflowApp = require('actions-on-google').DialogflowApp; // Google Assi
 
 var admin = require("firebase-admin");
 var serviceAccount = require("./firebase-disg-service-key.json");
-
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
     databaseURL: "https://seguros-sample.firebaseio.com"
@@ -210,6 +209,8 @@ function processV2Request (request, response) {
         return responseToUser;
     }
 
+
+    //ACTIVIDAD DE TAREA []
     function carouselIntent() {
         console.log("Carousel  Intent");
         //TODO: Create Carousel Object, Call Furebasedatabase and show every data in a carousel.
